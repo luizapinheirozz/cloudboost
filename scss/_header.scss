@@ -8,6 +8,7 @@ header {
         border-radius: 10rem;
         border: 1px solid rgba(255, 255, 255, 0.08);
         background: rgba(255, 255, 255, 0.04);
+        backdrop-filter: blur(3.5px);
         @include flex-center;
         justify-content: space-between;
         height: 7.2rem;
